@@ -2,7 +2,7 @@ body{
   background-color: grey;
 }
 
-/* h2{
+ h2{
   color: white;
   text-decoration: underline;
   font-size: 30px;
@@ -11,7 +11,7 @@ body{
 p{
   color: white;
   
-}
+} 
 
 .jumbotron{
   background-image: url("../images/min.jpeg");
