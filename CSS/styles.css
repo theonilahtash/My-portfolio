@@ -1,37 +1,29 @@
-.container-fluid{
-  background-color: blanchedalmond;
+.overlay {
+  border-radius: 100px;
+  color: black;
+}
+body {
+  opacity: 0.7;
 }
 
-.overlay{
-  background-color: blanchedalmond;
-}
-body{
-  background-color: gray;
-}
-
- h2{
-  color: blue;
-  text-decoration: underline;
+h2 {
+  color: black;
   font-size: 30px;
 }
-
-p{
-  color: blue;
-  
-} 
-
-.me{
-  background-image: url(https://images.pexels.com/photos/1006293/pexels-photo-1006293.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
-  padding-bottom: 500px;
-  margin-top: 50px;
-  background-repeat: no repeat;
-  background-size: cover;
-  font-size: 80px;
-  height:800px;
-  color: blue;
+b {
+  border-radius: 30px;
 }
 
-h4{
-  font-family: 'Passion One', cursive;
+p {
+  color: black;
+}
+
+.imageHolder img {
+  width: 100%;
+  border-radius: 30px;
+}
+
+h4 {
+  font-family: "Passion One", cursive;
   font-size: 24px;
-} 
+}
